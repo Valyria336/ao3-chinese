@@ -1,6 +1,6 @@
-版本号：1.0.8
+版本号：1.0.9
 维护者：拉葛莎
-更新时间：2026-02-06
+更新时间：2026-02-07
 
 // ============================================
 // 变形金刚术语表 - Transformers Glossary
@@ -266,6 +266,12 @@ CR Chamber：CR治疗舱
 // 科技与设施
 CR：CR（治疗）
 CR Chamber：CR治疗舱
+LAS：链接与传感系统
+MTS：多功能变形系统
+Medibay：医疗舱
+Repair Bay：维修舱
+Stasis Cuff：静滞手铐
+Stasis Lock：静滞锁
 
 // === 同人特定生理构造与概念 ===
 // “拆卸”相关系统
@@ -276,6 +282,7 @@ Interface: 接口
 Docking Channel: 对接通道
 Docking Panel: 对接面板
 Valve Flap: 保护叶片
+Valve: 瓣膜
 Sensitive Node: 敏感节点
 Secondary Fuel Tank: 次级油箱
 Fuel Tank Gasket: 油箱垫片
@@ -384,6 +391,96 @@ Ark：方舟号
 Sky Lynx：天猫号
 Broadside：宽载
 Scattershot：机关炮
+Medibay：医疗舱
+Repair Bay：维修舱
+Stasis Cuff：静滞手铐
+Stasis Lock：静滞锁
+// --- 同人二创：生理构造与系统（通用）---
+spark：火种
+spark casing：火种壳
+spark chamber：火种舱
+spark pulse：火种脉冲
+spark bond：火种链接
+spark resonance：火种共鸣
+spark merge：火种融合
+spark extinguish：火种熄灭
+sparkling：火种幼体
+protoform：原生体
+endoskeleton：内骨骼
+exoskeleton：外装甲
+armor plating：装甲板
+sensory array：传感器阵列
+optical sensor：光学传感器
+audial receptor：音频接收器
+vocalizer：发声器
+interfacing cable：对接线
+data cable：数据线
+charge cable：充电线
+transfluid：传输液
+energon lines：能量管线
+fuel line：燃料管线
+hydraulic line：液压管线
+coolant system：冷却系统
+ventilation system：通风系统
+wiring harness：线束
+circuitry：电路系统
+neural net：神经网络
+processor：处理器
+memory bank：记忆库
+data track：数据轨道
+self-repair nanites：自动修复纳米机器人
+repair drone：维修无人机
+welding torch：焊接枪
+torch：焊枪（工具）
+scanner：扫描仪
+diagnostic tool：诊断工具
+calipers：卡尺
+struts：支撑杆
+joints：关节
+actuators：促动器
+gyroscope：陀螺仪
+gravitational compensator：重力补偿器
+inertial dampener：惯性阻尼器
+magnetic clamp：磁力夹具
+welding seam：焊缝
+patch plate：补丁板
+replacement part：替换零件
+spare part：备用零件
+component：组件
+module：模块
+panel：面板
+plating：镀层
+coating：涂层
+paint job：涂装
+primer：底漆
+clear coat：清漆
+// --- 拆卸相关动作与状态 ---
+disassembly：拆卸
+reassembly：重组
+maintenance：维护
+overhaul：大修
+repair：修理
+diagnostics：诊断
+calibration：校准
+alignment：校准/对位
+lubrication：润滑
+degreasing：除油
+polishing：抛光
+buffing：打磨
+sanding：砂磨
+welding：焊接
+soldering：钎焊
+brazing：硬钎焊
+riveting：铆接
+bolting：螺栓连接
+clamping：夹具固定
+// --- 同人二创：接口类型 ---
+data port：数据端口
+charge port：充电端口
+interfacing port：对接端口
+maintenance port：维护端口
+diagnostic port：诊断端口
+emergency port：紧急端口
 // === 通用武器系统与攻击 ===
 Heat Ray：热线枪
 Electro-disruptor：电子扰频器
