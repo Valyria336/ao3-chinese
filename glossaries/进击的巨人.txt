@@ -1,6 +1,6 @@
-版本号：1.0.5
+版本号：1.0.6
 维护者：拉葛莎
-更新时间：2026-02-06
+更新时间：2026-04-10
 
 // ============================================
 // 进击的巨人术语库 - Attack on Titan Glossary
@@ -19,12 +19,13 @@ Marco Bott = 马可·波特
 // 其他提及的成员
 Thomas Wagner = 托马斯·瓦格纳
 Mina Carolina = 米娜·卡罗莱纳
-Samuel Linke-Jackson = 山谬·林克-杰克逊
+Samuel Linke-Jackson = 塞缪尔·林克-杰克逊
 Hannah Diamant = 汉娜·迪亚曼特
 Franz Kefka = 弗朗茨·凯夫卡
 Nack Tierce = 纳克·提亚斯
-Mylius Zeramuski = 米利乌斯·泽拉姆斯基
+Mylius Zeramuski = 米利乌斯·泽尔姆斯基
 Daz = 达兹
+Floch Forster = 弗洛克·福斯特
 // === 第104期训练兵团相关 ===
 // 常见昵称与简称
 Potato Girl / Sweet Potato Girl：白薯女 / 芋头女
@@ -36,26 +37,46 @@ Erwin Smith = 埃尔文·史密斯
 Hange Zoe = 韩吉·佐耶
 Moblit Berner = 莫布里特·巴纳
 Nile Dawk = 奈尔·德克
+Mike Zakarius = 米克·萨卡利亚斯
+Auruo Bossard = 奥路欧·博查特
+Petra Rall = 佩特拉·拉鲁
+Erd Jin = 艾鲁多·琴
+Gunter Shulz = 君达·修兹
+Dita Ness = 迪塔·尼斯
 // 宪兵团
 Kenny Ackerman = 肯尼·阿克曼
 Hitch Dreyse = 赫里斯塔·兰斯
 Marlowe Freudenberg = 马洛·弗登堡
+Nile Dawk = 奈尔·德克
+Marlowe Freudenberg = 马尔洛·桑德
+Hitch Dreyse = 希琪·德利斯
 // 驻屯兵团
 Keith Sadies = 基斯·夏迪斯
 Hannes：汉尼斯
+Dot Pixis = 达特·皮克西斯
+Kitz Weilman = 奇兹·威尔曼
+Mitabi Yarunahha = 米塔比·雅尔纳赫
 // 马莱方角色
 Reiner Braun = 莱纳·布朗
-Bertholdt Hoover = 贝特霍尔德·胡佛
-Annie Leonhart = 阿妮·利昂纳德
+Bertholdt Hoover = 贝尔托特·胡佛
+Annie Leonhart = 阿尼·利昂纳德
 Zeke Yeager = 吉克·耶格尔
 Pieck Finger = 皮克·芬格尔
-Porco Galliard = 波尔柯·加里亚德
-Falco Grice = 法尔可·葛雷斯
+Porco Galliard = 波尔克·加里亚德
+Falco Grice = 法尔克·格莱斯
 Gabi Braun = 贾碧·布朗
+Calvi = 卡尔维
+Theo Magath = 迪奥·马加特
+Koslow = 科斯洛
+Colt Grice = 柯尔特·格莱斯
+Marcel Galliard = 马赛‧加里亚德
+Zofia Reitsch = 索菲亚·莱契
+Udo Bock = 乌德·博克
+Tom Xaver = 汤姆·库沙瓦
 // 王族与贵族
-Rod Reiss = 罗德·雷斯
-Frieda Reiss = 弗丽达·雷斯
-Historia Reiss = 希斯特莉亚·雷斯
+Rod Reiss = 罗德·雷伊斯
+Frieda Reiss = 弗丽达·雷伊斯
+Historia Reiss = 希斯特莉亚·雷伊斯
 Uri Reiss = 乌利·雷斯
 // === 戴巴家族 ===
 // 家族与姓氏
@@ -76,6 +97,9 @@ Carla Yeager = 卡尔拉·耶格尔
 Dina Fritz = 戴娜·弗里茨
 Kiyomi Azumabito = 清美·阿兹马比特
 Onyankopon：欧良果彭
+Dallis Zacklay = 达里斯·扎卡里
+Dimo Rebbs Edward = 迪墨·利布斯·爱德华
+Flegel Reeves Edward = 弗雷盖尔·利布斯·爱德华
 
 // === 国家、组织与部队 ===
 Paradis Island = 帕拉迪岛 乐园
@@ -155,7 +179,7 @@ Equipment: 装备
 Vertical Maneuvering Gear：立体机动装置
 // 衍生型号
 Anti-Personnel Vertical Maneuvering Gear：对人立体机动装置 [citation:2]
-Gas：气体
+Gas：瓦斯
 Blade：刀片
 Hardening：硬化
 Crystal：结晶
